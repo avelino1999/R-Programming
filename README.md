@@ -49,5 +49,4 @@ Grouped rides into weekday/weekend categories and visualized the ride percentage
 - Column plots for distance by bike type
 - Pie charts for weekday vs. weekend ride share
 
-## 📂 Folder Structure
 
